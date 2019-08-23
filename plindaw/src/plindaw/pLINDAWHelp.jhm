@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE map
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/map_1_0.dtd">
+
+<map version="1.0">
+	<mapID target="intro" url="plindawhelp/intro.html" />
+	<mapID target="overview" url="plindawhelp/overview.html" />
+	<mapID target="system_requirements" url="plindawhelp/system_requirements.html" />
+	<mapID target="how_to_run" url="plindawhelp/how_to_run.html" />
+
+	<mapID target="querying_drug_target_signatures" url="plindawhelp/querying_drug_target_signatures.html" />
+	<mapID target="predicting_drug_similarity" url="plindawhelp/predicting_drug_similarity.html" />
+	<mapID target="predicting_drug_efficacy" url="plindawhelp/predicting_drug_efficacy.html" />
+	<mapID target="ack" url="plindawhelp/ack.html" />
+</map>
