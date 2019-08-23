@@ -1,0 +1,13 @@
+BRD-K19290969-001-07-5	10-Methyl-10H-phenothiazin-3-ylamine
+BRD-K26947839-001-05-3	1-(10H-phenothiazin-2-yl)ethanone
+BRD-K70052774-001-05-4	11-(2-(4-(2-aminoethyl)piperazin-1-yl)acetyl)-5H-benzo[e]pyrido[3,2-b][1,4]diazepin-6(11H)-one KAJ-5
+NGP-003-05_F05	118-71-8
+BRD-K76595177-001-05-9	1-[2-(2,5-dimethylphenoxy)ethyl]-1H-indole-3-carboxylic acid
+BRD-A94567954-001-05-7	12-(3,4-Dimethoxy-phenyl)-10-(2-morpholin-4-yl-ethyl)-10,12-dihydro-7-oxa-8,10-diaza-benzo[a]anthracen-11-ylideneamine
+BRD-K06432680-001-05-0	1-[2-(3,4-dimethoxyphenyl)ethyl]-6-propyl-2-thioxo-2,3,5,6,7,8-hexahydropyrimido[4,5-d]pyrimidin-4(1H)-one
+BRD-K44241590-001-07-4	1-(2,3-Dihydro-benzo[1,4]dioxine-6-sulfonyl)-4-(4-methoxy-benzenesulfonyl)-piperazine
+BRD-K18595892-001-09-6	1-{[2-(4-chlorophenyl)-5-methyl-1,3-oxazol-4-yl]methyl}-N-[2-(dipropylamino)ethyl]piperidine-4-carboxamide
+BRD-K91449330-001-01-3	1,2-dimethyl (3R)-3-(4-chlorophenyl)-4-oxo-3-(propan-2-yl)-1,2-diazetidine-1,2-dicarboxylate
+BRD-K20914082-001-01-2	1,2-dimethyl (3R)-4-oxo-3-(propan-2-yl)-3-(thiophen-3-yl)-1,2-diazetidine-1,2-dicarboxylate
+BRD-A55609290-001-05-7	1-(2-fluoro-3,4-dimethoxyphenyl)-2-(isopropylamino)ethanol KLK-49
+BRD-A84524947-001-05-0	1-(3,4-bis(benzyloxy)-2,5-difluorophenyl)-2-(methylamino)ethanol KLK-37
